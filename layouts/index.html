@@ -1,0 +1,59 @@
+{{ define "title"}} {{ .Site.Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+
+<div id="main">
+  <div id="hero">
+    <h1>{{.Title}}</h1>
+    <p>{{.Description}}</p>
+  </div>
+  <div id="action-buttons">
+    <a class="button primary big" href="IA_Whitepaper.pdf" onclick="_gaq.push(['_trackEvent', 'kube', 'download', '1.0']);">Download Whitepaper</a>
+    <p>Version 1.0.0 from June 15, 2017.<br>
+    Data Collection libraries for Websites, Servers, Mobile Devices, IoT</p>
+  </div>
+  <div class="message focus" data-component="message"> <span class="close small"></span>
+    <a class="button inverted small " href="https://intentaware.com/" >IntentBot </a> from <a href="https://intentaware.com/">Intentaware</a> is an awesome <mark>Bot</mark> that collects data from digital assets and actions realtime!
+  </div>
+  <div id="kube-features">
+    <div class="row gutters">
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Baseline" height="48" src="/img/kube/icon-baseline.png" width="48">
+        </figure>
+        <h3>Collect</h3>
+        <p>IA collects data from all digital assets including IoT</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Typography" height="48" src="/img/kube/icon-typo.png" width="48">
+        </figure>
+        <h3>Curate,Analyze</h3>
+        <p>We curate the collected data with 1000's of attributes in near real time</p>
+      </div>
+      <div class="col col-4 item">
+        <figure>
+          <img alt="Minimalism" height="48" src="/img/kube/icon-minimalism.png" width="48">
+        </figure>
+        <h3>Decision Tree</h3>
+        <p>Ping back the real time decisions in Milliseconds</p>
+      </div>
+    </div>
+    <div class="row gutters">
+      <div class="col col-4 item">
+        <h4>Deep Neural Learning</h4>
+        <p>Protect every connected device on your infrastructure realtime with our deep learning technology that identifies potential threats</p>
+      </div>
+      <div class="col col-4 item">
+        <h4>Multi device Identification</h4>
+        <p>IA works FOR all modern DEVICES, both desktop and mobile, including latest browsers</p>
+      </div>
+      <div class="col col-4 item">
+        <h4>Consult</h4>
+        <p>Driven by creative thinkers, we offer you fresh perspective in formulating and implementing your digital strategy to help you grow and deliver superior profitability.</p>
+    </div>
+  </div>
+</div>
+</div>
+{{ end }}
+{{ define "footer"}} {{ partial "footer" .}} {{end}}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Casestudies on  Big Data on Steroids</title>
+    <link>/casestudies/</link>
+    <description>Recent content in Casestudies on  Big Data on Steroids</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/casestudies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Auto Industry</title>
+      <link>/casestudies/autoindustry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/casestudies/autoindustry/</guid>
+      <description>IntentAware for Auto Industry
+Research1 shows that more than 72% of auto buyers use the Internet for research and comparison activities before purchasing. As a result, Internet houses a lot of intent data of these prospects as potential buyers navigate across different auto websites. Until now, as an auto brand or dealer, you don’t have this real time prospect insights i.e., who is visiting your website, comparing vehicles, etc.
+IntentAware™ is meeting this need and adding value to Auto Industry through real time actionable online customer intelligence.</description>
+    </item>
+    
+    <item>
+      <title>Banking</title>
+      <link>/casestudies/banking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/casestudies/banking/</guid>
+      <description>IntentAware for Banking Industry
+Ad spending on paid digital media by the US financial services was about &amp;amp;7.2 billion in 2015 – a gain of 14.5% over 2014 and the trend continues for at least next five years with a CAGR of 11.7%1 (eMarketer, September 2015). But what about returns on this astronomical investment? A dismal 0.003%! Clearly, something is missing. And the most obvious is random targeting – these are the people who don’t care about your product or are not in the market yet advertisers keep investing on random targeting in the hope to sell.</description>
+    </item>
+    
+  </channel>
+</rss>
