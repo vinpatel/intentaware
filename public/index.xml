@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Big Data on Steroids on  Big Data on Steroids</title>
+    <title>Automating Data Science  on  IntentAware</title>
     <link>/</link>
-    <description>Recent content in Big Data on Steroids on  Big Data on Steroids</description>
+    <description>Recent content in Automating Data Science  on  IntentAware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 21:56:55 +0100</lastBuildDate>
@@ -347,6 +347,15 @@ Ad spending on paid digital media by the US financial services was about &amp;am
       
       <guid>/company/</guid>
       <description>IntentAware™ is a cloud or on premise Data Platform that is bridging the gap between your digital content and relevant audience. Through sophisticated real time data analysis, our proprietary decision engine recognizes people’s intent and enables marketers, agencies, and publishers to reach end-users in their intent path when they are most likely to be influenced and make purchase decisions - enhancing customer engagement and conversion rate. End users receive relevant offers and marketers receive higher conversion rate.</description>
+    </item>
+    
+    <item>
+      <title>Contact us</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description> How can we help you?     Use Case  Ip Intelligence Real Time Customer Intelligence Real Time Personalization Developers API Other     Message   Submit    </description>
     </item>
     
     <item>
