@@ -17,7 +17,7 @@ John had tried "look alike audiences" and other such features from some ad tech 
 
 Why is a postal code Important?
 In Canada, the last 3 digits of the 6 character alpha numeric postal code represents a Local Delivery Unit (LDU). The larger the city, the more specific the LDU. In John's case, the LDU represented one of the affluent postal codes in the city of Toronto.
-![postal code targeting](direct_mail.png)
+![postal code targeting](/static/direct_mail.png)
 
 The results were mapped using a Google maps API and the finding was obvious.  "At that moment, I knew", says John, "I had found the area I wanted to target".
 Implementation
