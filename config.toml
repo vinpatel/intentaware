@@ -16,10 +16,7 @@ Paginate = 4
     name = "Solutions"
     weight = -200
     url = "/solutions/"
-[[menu.main]]
-    name = "Blog"
-    weight = -100
-    url = "/blog/"
+
 [[menu.main]]
     name = "Case Studies"
     weight = -150
