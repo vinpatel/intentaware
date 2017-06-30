@@ -1,5 +1,5 @@
 +++
-title = "Solutionss"
+title = "Solutions"
 +++
 
 # Lead Intelligence:
@@ -11,15 +11,15 @@ title = "Solutionss"
 # Cross-Device Optimization:
 Identify a user when they switch among different devices - e.g., iPhone, iPad, and laptop.
 Usage:
-*   Tailored traffic report to understand how users consume website content
-*   See how traffic is split across different devices, browsers and operating systems
-*   Tailor marketing campaigns to include consumer’s entire screen - connect with consumers seamlessly as they move through different screen sizes.
+1.   Tailored traffic report to understand how users consume website content
+2.   See how traffic is split across different devices, browsers and operating systems
+3.   Tailor marketing campaigns to include consumer’s entire screen - connect with consumers seamlessly as they move through different screen sizes.
 
 # Cross-Location Optimization:
 Identify a user when they switch between places - e.g., from office to home or when travelling out of their city
 Usage:
-*   Identify the same user across different places - seamlessly
-*   Identify those high value audiences that keep visiting your website anonymously but never convert - understanding their web behavior allows you to interact and engage them - ultimately convert.
+1.   Identify the same user across different places - seamlessly
+2.   Identify those high value audiences that keep visiting your website anonymously but never convert - understanding their web behavior allows you to interact and engage them - ultimately convert.
 
 # IP Intelligence:
 <p>Our proprietary technology provides you insight on your online customers – know from where and how they are connecting to web. This information can further be used to curb online fraud and mitigate compliance risks related to online sales. Best of all, you can get this information within seconds (~18 seconds) to either boost your customer engagement or prevent fraud.</p>
