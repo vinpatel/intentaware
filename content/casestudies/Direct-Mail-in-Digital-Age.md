@@ -1,9 +1,6 @@
 +++
-title = "
-Bringing Direct Mail to the Digital Age
-"
-description = "How a Canadian retailer leveraged data from Statistics Canada and the Canada Post Postal Code Targeting Capability for a 6X marketing ROI with the help of Advanced Web Analytics
-"
+title = "Bringing Direct Mail to the Digital Age"
+description = "How a Canadian retailer leveraged data from Statistics Canada and the Canada Post Postal Code Targeting Capability for a 6X marketing ROI with the help of Advanced Web Analytics"
 +++
 Background:
 In the lead up to the holiday season of 2015, John a retailer of luxury jewelry items was wondering what he could do differently to increase sales in a cost efficient manner. He had tried the traditional routes of Google AdWords, flyers etc. but he was not able to get the word out to a net new audience.
