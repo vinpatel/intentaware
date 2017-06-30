@@ -15,17 +15,17 @@ title = "Solutions"
 Identify a user when they switch among different devices - e.g., iPhone, iPad, and laptop.
 Usage:
 
-1.   Tailored traffic report to understand how users consume website content
-2.   See how traffic is split across different devices, browsers and operating systems
-3.   Tailor marketing campaigns to include consumer’s entire screen - connect with consumers seamlessly as they move through different screen sizes.
+1. Tailored traffic report to understand how users consume website content
+2. See how traffic is split across different devices, browsers and operating systems
+3. Tailor marketing campaigns to include consumer’s entire screen - connect with consumers seamlessly as they move through different screen sizes.
 
 # Cross-Location Optimization:
 
 Identify a user when they switch between places - e.g., from office to home or when travelling out of their city
 Usage:
 
-1.   Identify the same user across different places - seamlessly
-2.   Identify those high value audiences that keep visiting your website anonymously but never convert - understanding their web behavior allows you to interact and engage them - ultimately convert.
+1. Identify the same user across different places - seamlessly
+2. Identify those high value audiences that keep visiting your website anonymously but never convert - understanding their web behavior allows you to interact and engage them - ultimately convert.
 
 # IP Intelligence:
 
