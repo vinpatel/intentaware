@@ -1,6 +1,6 @@
 +++
 title = " Real Time 🐣Customer Intelligence"
-description = "Want customer attention? First you need to know more about who they are.We’ll help you connect the dots in realtime."
+description = "Want customer attention? First you need to know more about who they are.We’ll help you connect the dots in Real Time."
 +++
 
 ## Lead Intelligence:
