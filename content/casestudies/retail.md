@@ -9,6 +9,4 @@ Also in the end the consumer journey is broken due to an offline journey like a 
 ![retail case study](https://github.com/vinpatel/intentaware/blob/master/static/retail2.png?raw=true)
 
 Our Marketing solution can provide bliss to online consumers by uniting thier intent and online journey in just 3 clicks
-
-
-<img src={{"retail1.png" | absURL}}>
+![retail case study](https://github.com/vinpatel/intentaware/blob/master/static/retail1.png?raw=true)
