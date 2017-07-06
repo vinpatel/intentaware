@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Automating Data Science  on  IntentAware</title>
+    <title>Maximizing Value of Data  on  IntentAware</title>
     <link>/</link>
-    <description>Recent content in Automating Data Science  on  IntentAware</description>
+    <description>Recent content in Maximizing Value of Data  on  IntentAware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 21:56:55 +0100</lastBuildDate>
@@ -310,24 +310,15 @@ invisible  But you can see this div because it has visible class.</description>
     </item>
     
     <item>
-      <title>Auto Industry</title>
-      <link>/casestudies/autoindustry/</link>
+      <title> Real Time 🐣Customer Intelligence</title>
+      <link>/solutions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/casestudies/autoindustry/</guid>
-      <description>IntentAware for Auto Industry
-Research1 shows that more than 72% of auto buyers use the Internet for research and comparison activities before purchasing. As a result, Internet houses a lot of intent data of these prospects as potential buyers navigate across different auto websites. Until now, as an auto brand or dealer, you don’t have this real time prospect insights i.e., who is visiting your website, comparing vehicles, etc.
-IntentAware™ is meeting this need and adding value to Auto Industry through real time actionable online customer intelligence.</description>
-    </item>
-    
-    <item>
-      <title>Banking</title>
-      <link>/casestudies/banking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/casestudies/banking/</guid>
-      <description>IntentAware for Banking Industry
-Ad spending on paid digital media by the US financial services was about &amp;amp;7.2 billion in 2015 – a gain of 14.5% over 2014 and the trend continues for at least next five years with a CAGR of 11.7%1 (eMarketer, September 2015). But what about returns on this astronomical investment? A dismal 0.003%! Clearly, something is missing. And the most obvious is random targeting – these are the people who don’t care about your product or are not in the market yet advertisers keep investing on random targeting in the hope to sell.</description>
+      <guid>/solutions/</guid>
+      <description>Lead Intelligence: 
+Understanding your customer is key to engaging them and run effective campaigns. What if you could shorten your sales cycles and deliver relevant offers to prospects? Gain a clear picture of your prospects - who are they, what influences them, their interests &amp;amp; lifestyle profile - a ‘must-have’ intelligence to foster product, service and feature innovation!
+Actionable Data: 
+We capture user data from any device, across multiple locations, and from multiple devices.</description>
     </item>
     
     <item>
@@ -359,6 +350,25 @@ Fortunately, at a professional networking event, John met Arvind Singh the found
     </item>
     
     <item>
+      <title>IntentAware for Auto Industry</title>
+      <link>/casestudies/autoindustry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/casestudies/autoindustry/</guid>
+      <description>Research1 shows that more than 72% of auto buyers use the Internet for research and comparison activities before purchasing. As a result, Internet houses a lot of intent data of these prospects as potential buyers navigate across different auto websites. Until now, as an auto brand or dealer, you don’t have this real time prospect insights i.e., who is visiting your website, comparing vehicles, etc.
+ IntentAware™ is meeting this need and adding value to Auto Industry through real time actionable online customer intelligence.</description>
+    </item>
+    
+    <item>
+      <title>IntentAware for Banking Industry</title>
+      <link>/casestudies/banking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/casestudies/banking/</guid>
+      <description>Ad spending on paid digital media by the US financial services was about &amp;amp;7.2 billion in 2015 – a gain of 14.5% over 2014 and the trend continues for at least next five years with a CAGR of 11.7%1 (eMarketer, September 2015). But what about returns on this astronomical investment? A dismal 0.003%! Clearly, something is missing. And the most obvious is random targeting – these are the people who don’t care about your product or are not in the market yet advertisers keep investing on random targeting in the hope to sell.</description>
+    </item>
+    
+    <item>
       <title>Password Recovery</title>
       <link>/password-recovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -366,6 +376,16 @@ Fortunately, at a professional networking event, John met Arvind Singh the found
       <guid>/password-recovery/</guid>
       <description>Your email    Send Back to Log In
  </description>
+    </item>
+    
+    <item>
+      <title>Sample Case Study for Retail</title>
+      <link>/casestudies/retail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/casestudies/retail/</guid>
+      <description>Our team conducted an experiment workshop where we told shoppers to buy things from giant retailers in canada. The experience of the online buyers was tedious , time consuming and going thorough multiple pages. Also in the end the consumer journey is broken due to an offline journey like a flyer.
+Our Marketing solution can provide bliss to online consumers by uniting thier intent and online journey in just 3 clicks</description>
     </item>
     
     <item>
@@ -378,16 +398,6 @@ Fortunately, at a professional networking event, John met Arvind Singh the found
 Forgot password?
 If you have any questions about authorization or you&#39;re our customer but haven&#39;t receive your login credentials, just send us a short email at support@company.com and we&#39;ll fix it right away.
  </description>
-    </item>
-    
-    <item>
-      <title>Solutions</title>
-      <link>/solutions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/solutions/</guid>
-      <description>Lead Intelligence: Understanding your customer is key to engaging them and run effective campaigns. What if you could shorten your sales cycles and deliver relevant offers to prospects? Gain a clear picture of your prospects - who are they, what influences them, their interests &amp; lifestyle profile - a ‘must-have’ intelligence to foster product, service and feature innovation!
-Actionable Data: We capture user data from any device, across multiple locations, and from multiple devices.</description>
     </item>
     
   </channel>

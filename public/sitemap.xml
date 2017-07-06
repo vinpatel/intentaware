@@ -142,16 +142,7 @@
   </url>
   
   <url>
-    <loc>/casestudies/autoindustry/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/casestudies/banking/</loc>
+    <loc>/solutions/</loc>
   </url>
   
   <url>
@@ -217,9 +208,22 @@
   </url>
   
   <url>
+    <loc>/casestudies/autoindustry/</loc>
+  </url>
+  
+  <url>
+    <loc>/casestudies/banking/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/markdown/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
   </url>
   
   <url>
@@ -233,11 +237,11 @@
   </url>
   
   <url>
-    <loc>/account/</loc>
+    <loc>/casestudies/retail/</loc>
   </url>
   
   <url>
-    <loc>/solutions/</loc>
+    <loc>/account/</loc>
   </url>
   
   <url>

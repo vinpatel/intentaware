@@ -2,7 +2,7 @@
 title = " Real Time 🐣Customer Intelligence"
 description = "Want customer attention? First you need to know more about who they are.We’ll help you connect the dots in Real Time."
 +++
-
+![Techbrief](images/Techbrief.png)
 ## Lead Intelligence:
 <br>
 <p>Understanding your customer is key to engaging them and run effective campaigns. What if you could shorten your sales cycles and deliver relevant offers to prospects? Gain a clear picture of your prospects - who are they, what influences them, their interests & lifestyle profile - a ‘must-have’ intelligence to foster product, service and feature innovation!</p>
