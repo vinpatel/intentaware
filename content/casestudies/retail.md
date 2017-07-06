@@ -7,7 +7,6 @@ The experience of the online buyers was tedious , time consuming and going thoro
 Also in the end the consumer journey is broken due to an offline journey like a flyer.
 <img src={{"retail2.png" | absURL}}>
 
-
 Our Marketing solution can provide bliss to online consumers by uniting thier intent and online journey in just 3 clicks
 
 
