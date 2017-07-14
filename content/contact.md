@@ -1,7 +1,7 @@
 +++
 title = "Contact us"
 +++
-
+<head><meta name="referrer" content="origin"></head>
 <form method="POST" action="http://formspree.io/vin@intentaware.com" class="form ">
 <fieldset>
 <legend>How can we help you?</legend>
