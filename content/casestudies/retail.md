@@ -10,3 +10,5 @@ Also in the end the consumer journey is broken due to an offline journey like a 
 
 Our Marketing solution can provide bliss to online consumers by uniting thier intent and online journey in just 3 clicks
 ![retail case study](https://github.com/vinpatel/intentaware/blob/master/static/retail1.png?raw=true)
+
+<div id="ad"></div>
