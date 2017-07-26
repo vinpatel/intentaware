@@ -11,4 +11,4 @@ Also in the end the consumer journey is broken due to an offline journey like a 
 Our Marketing solution can provide bliss to online consumers by uniting thier intent and online journey in just 3 clicks
 ![retail case study](https://github.com/vinpatel/intentaware/blob/master/static/retail1.png?raw=true)
 
-<div id="ad-show"></div>
+<div id="ad-show">  <script>(function(){document.intentaware="hKRzMaEiCwp9GuJ68eerdd";document.campaignID="27";var b=document.currentScript.parentNode,a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://app.intentaware.com/magneto/aware.js";b.appendChild(a)})();</script></div>
