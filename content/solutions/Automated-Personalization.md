@@ -1,5 +1,5 @@
 +++
-title = " Automated Personalization Demonstration"
+title = " Automated Personalization"
 description = "Deliver relevant, engaging experiences across all digital interactions using any data source"
 +++
 
