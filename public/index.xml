@@ -310,11 +310,20 @@ invisible  But you can see this div because it has visible class.</description>
     </item>
     
     <item>
-      <title> Real Time 🐣Customer Intelligence</title>
-      <link>/solutions/</link>
+      <title> Automated Personalization</title>
+      <link>/solutions/automated-personalization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/solutions/</guid>
+      <guid>/solutions/automated-personalization/</guid>
+      <description>(function(){document.intentaware=&#34;hKRzMaEiCwp9GuJ68eerdd&#34;;document.campaignID=&#34;27&#34;;var b=document.currentScript.parentNode,a=document.createElement(&#34;script&#34;);a.type=&#34;text/javascript&#34;;a.async=!0;a.src=&#34;https://app.intentaware.com/magneto/aware.js&#34;;b.appendChild(a)})(); </description>
+    </item>
+    
+    <item>
+      <title> Real Time 🐣Customer Intelligence</title>
+      <link>/solutions/realtime-customer-intelligence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/realtime-customer-intelligence/</guid>
       <description>Lead Intelligence: 
 Understanding your customer is key to engaging them and run effective campaigns. What if you could shorten your sales cycles and deliver relevant offers to prospects? Gain a clear picture of your prospects - who are they, what influences them, their interests &amp;amp; lifestyle profile - a ‘must-have’ intelligence to foster product, service and feature innovation!
 Actionable Data: 
@@ -346,7 +355,8 @@ Fortunately, at a professional networking event, John met Arvind Singh the found
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description> How can we help you?     Use Case  Ip Intelligence Real Time Customer Intelligence Real Time Personalization Developers API Other     Message   Submit    </description>
+      <description>How can we help you?     Use Case  Ip Intelligence Real Time Customer Intelligence Real Time Personalization Developers API Other
+ &amp;lt;/select&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=“form-item”&amp;gt; &amp;lt;label&amp;gt;Message&amp;lt;/label&amp;gt; &amp;lt;textarea rows=“6”&amp;gt;&amp;lt;/textarea&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;br&amp;gt; &amp;lt;div class=“form-item”&amp;gt; &amp;lt;button&amp;gt;Submit&amp;lt;/button&amp;gt; &amp;lt;/div&amp;gt;</description>
     </item>
     
     <item>
@@ -379,13 +389,22 @@ Fortunately, at a professional networking event, John met Arvind Singh the found
     </item>
     
     <item>
+      <title>Real Time Customer Personalization Case Study</title>
+      <link>/casestudies/real-time-personalization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/casestudies/real-time-personalization/</guid>
+      <description>Background: Grapple.co is a task management and collaboration software that allows team members to come together in a single platform and streamline their work flow and communication. Like any other SAAS company they wanted to target and retain a customer base that was active, engaged and likely to recommend their solution to other project teams. While they had a successful acquisition program in place, usage and retention was becoming a key issue.</description>
+    </item>
+    
+    <item>
       <title>Sample Case Study for Retail</title>
       <link>/casestudies/retail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/casestudies/retail/</guid>
       <description>Our team conducted an experiment workshop where we told shoppers to buy things from giant retailers in canada. The experience of the online buyers was tedious , time consuming and going thorough multiple pages. Also in the end the consumer journey is broken due to an offline journey like a flyer.
-Our Marketing solution can provide bliss to online consumers by uniting thier intent and online journey in just 3 clicks</description>
+Our Marketing solution can provide bliss to online consumers by uniting thier intent and online journey in just 3 clicks </description>
     </item>
     
     <item>

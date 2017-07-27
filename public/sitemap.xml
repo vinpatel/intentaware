@@ -142,7 +142,11 @@
   </url>
   
   <url>
-    <loc>/solutions/</loc>
+    <loc>/solutions/automated-personalization/</loc>
+  </url>
+  
+  <url>
+    <loc>/solutions/realtime-customer-intelligence/</loc>
   </url>
   
   <url>
@@ -237,11 +241,20 @@
   </url>
   
   <url>
+    <loc>/casestudies/real-time-personalization/</loc>
+  </url>
+  
+  <url>
     <loc>/casestudies/retail/</loc>
   </url>
   
   <url>
     <loc>/account/</loc>
+  </url>
+  
+  <url>
+    <loc>/solutions/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
