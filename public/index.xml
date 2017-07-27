@@ -311,19 +311,19 @@ invisible  But you can see this div because it has visible class.</description>
     
     <item>
       <title> Automated Personalization</title>
-      <link>/solutions/automated-personalization/</link>
+      <link>/automated-personalization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/solutions/automated-personalization/</guid>
+      <guid>/automated-personalization/</guid>
       <description>(function(){document.intentaware=&#34;hKRzMaEiCwp9GuJ68eerdd&#34;;document.campaignID=&#34;27&#34;;var b=document.currentScript.parentNode,a=document.createElement(&#34;script&#34;);a.type=&#34;text/javascript&#34;;a.async=!0;a.src=&#34;https://app.intentaware.com/magneto/aware.js&#34;;b.appendChild(a)})(); </description>
     </item>
     
     <item>
       <title> Real Time 🐣Customer Intelligence</title>
-      <link>/solutions/realtime-customer-intelligence/</link>
+      <link>/solutions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/solutions/realtime-customer-intelligence/</guid>
+      <guid>/solutions/</guid>
       <description>Lead Intelligence: 
 Understanding your customer is key to engaging them and run effective campaigns. What if you could shorten your sales cycles and deliver relevant offers to prospects? Gain a clear picture of your prospects - who are they, what influences them, their interests &amp;amp; lifestyle profile - a ‘must-have’ intelligence to foster product, service and feature innovation!
 Actionable Data: 

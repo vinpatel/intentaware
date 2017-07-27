@@ -142,11 +142,11 @@
   </url>
   
   <url>
-    <loc>/solutions/automated-personalization/</loc>
+    <loc>/automated-personalization/</loc>
   </url>
   
   <url>
-    <loc>/solutions/realtime-customer-intelligence/</loc>
+    <loc>/solutions/</loc>
   </url>
   
   <url>
@@ -250,11 +250,6 @@
   
   <url>
     <loc>/account/</loc>
-  </url>
-  
-  <url>
-    <loc>/solutions/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
