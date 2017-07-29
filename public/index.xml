@@ -315,7 +315,8 @@ invisible  But you can see this div because it has visible class.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/automated-personalization/</guid>
-      <description>(function(){document.intentaware=&#34;hKRzMaEiCwp9GuJ68eerdd&#34;;document.campaignID=&#34;27&#34;;var b=document.currentScript.parentNode,a=document.createElement(&#34;script&#34;);a.type=&#34;text/javascript&#34;;a.async=!0;a.src=&#34;https://app.intentaware.com/magneto/aware.js&#34;;b.appendChild(a)})(); </description>
+      <description>To deliver personalized content across all your digital marketing channels now just requires creating an intelligent campaign with intentwaware.
+(function(){document.intentaware=&#34;hKRzMaEiCwp9GuJ68eerdd&#34;;document.campaignID=&#34;27&#34;;var b=document.currentScript.parentNode,a=document.createElement(&#34;script&#34;);a.type=&#34;text/javascript&#34;;a.async=!0;a.src=&#34;https://app.intentaware.com/magneto/aware.js&#34;;b.appendChild(a)})(); </description>
     </item>
     
     <item>
