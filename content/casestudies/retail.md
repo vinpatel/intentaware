@@ -2,7 +2,8 @@
 title = "Sample Case Study for Retail"
 description = "Maximizing Conversions using Ip Intelligence"
 +++
-Our team conducted an experiment workshop where we told shoppers to buy things from giant retailers in canada.
+
+Our team conducted an experiment workshop where we told shoppers to buy things from giant retailers in Canada.
 The experience of the online buyers was tedious , time consuming and going thorough multiple pages.
 Also in the end the consumer journey is broken due to an offline journey like a flyer.
 
