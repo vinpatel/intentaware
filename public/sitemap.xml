@@ -1,259 +1,290 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/welcome/</loc>
+    <loc>https://intentaware.com/blog/welcome/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/quick-start/</loc>
+    <loc>https://intentaware.com/samples/quick-start/</loc>
   </url>
   
   <url>
-    <loc>/docs/custom-plugins/</loc>
+    <loc>https://intentaware.com/samples/custom-plugins/</loc>
   </url>
   
   <url>
-    <loc>/docs/typography/</loc>
+    <loc>https://intentaware.com/samples/typography/</loc>
   </url>
   
   <url>
-    <loc>/blog/typography/</loc>
+    <loc>https://intentaware.com/blog/typography/</loc>
   </url>
   
   <url>
-    <loc>/blog/prototyping/</loc>
+    <loc>https://intentaware.com/blog/prototyping/</loc>
     <lastmod>2017-04-02T22:01:15+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/grid/</loc>
+    <loc>https://intentaware.com/samples/grid/</loc>
   </url>
   
   <url>
-    <loc>/docs/tables/</loc>
+    <loc>https://intentaware.com/samples/tables/</loc>
     <lastmod>2017-04-10T16:40:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/forms/</loc>
+    <loc>https://intentaware.com/samples/forms/</loc>
     <lastmod>2017-04-10T16:40:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/buttons/</loc>
+    <loc>https://intentaware.com/samples/buttons/</loc>
     <lastmod>2017-04-10T16:41:16+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/labels/</loc>
+    <loc>https://intentaware.com/samples/labels/</loc>
     <lastmod>2017-04-10T16:40:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/messages/</loc>
+    <loc>https://intentaware.com/blog/messages/</loc>
     <lastmod>2017-04-10T16:41:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/messages/</loc>
+    <loc>https://intentaware.com/samples/messages/</loc>
     <lastmod>2017-04-10T16:41:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/tabs/</loc>
+    <loc>https://intentaware.com/samples/tabs/</loc>
     <lastmod>2017-04-10T16:41:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/breadcrumbs/</loc>
+    <loc>https://intentaware.com/samples/breadcrumbs/</loc>
     <lastmod>2017-04-10T16:41:54+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/pagination/</loc>
+    <loc>https://intentaware.com/samples/pagination/</loc>
     <lastmod>2017-04-10T16:42:03+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/dropdown/</loc>
+    <loc>https://intentaware.com/samples/dropdown/</loc>
     <lastmod>2017-04-10T16:42:12+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/modal/</loc>
+    <loc>https://intentaware.com/samples/modal/</loc>
     <lastmod>2017-04-10T16:42:18+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/sticky/</loc>
+    <loc>https://intentaware.com/samples/sticky/</loc>
     <lastmod>2017-04-10T16:42:26+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/collapse/</loc>
+    <loc>https://intentaware.com/blog/collapse/</loc>
     <lastmod>2017-04-10T16:42:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/collapse/</loc>
+    <loc>https://intentaware.com/samples/collapse/</loc>
     <lastmod>2017-04-10T16:42:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/offcanvas/</loc>
+    <loc>https://intentaware.com/samples/offcanvas/</loc>
     <lastmod>2017-04-10T16:42:43+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/toggleme/</loc>
+    <loc>https://intentaware.com/samples/toggleme/</loc>
     <lastmod>2017-04-10T16:42:59+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/animation/</loc>
+    <loc>https://intentaware.com/samples/animation/</loc>
     <lastmod>2017-04-10T16:43:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/colors/</loc>
+    <loc>https://intentaware.com/docs/direct-mail-in-digital-age/</loc>
+    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/docs/autoindustry/</loc>
+    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/docs/real-time-personalization/</loc>
+    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/docs/retail/</loc>
+    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/samples/colors/</loc>
     <lastmod>2017-04-10T16:43:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/sizing/</loc>
+    <loc>https://intentaware.com/samples/sizing/</loc>
     <lastmod>2017-04-10T16:43:21+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/mixins/</loc>
+    <loc>https://intentaware.com/samples/mixins/</loc>
     <lastmod>2017-04-10T16:43:36+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/docs/utils/</loc>
+    <loc>https://intentaware.com/samples/utils/</loc>
     <lastmod>2017-04-10T16:43:30+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/inline-style/</loc>
+    <loc>https://intentaware.com/blog/inline-style/</loc>
     <lastmod>2017-04-02T21:56:55+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/automated-personalization/</loc>
+    <loc>https://intentaware.com/automated-personalization/</loc>
   </url>
   
   <url>
-    <loc>/solutions/</loc>
+    <loc>https://intentaware.com/solutions/</loc>
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2017-04-02T21:56:55+01:00</lastmod>
+    <loc>https://intentaware.com/blog/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/casestudies/direct-mail-in-digital-age/</loc>
+    <loc>https://intentaware.com/casestudies/direct-mail-in-digital-age/</loc>
   </url>
   
   <url>
-    <loc>/casestudies/</loc>
+    <loc>https://intentaware.com/casestudies/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://intentaware.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/company/</loc>
+    <loc>https://intentaware.com/company/</loc>
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>https://intentaware.com/contact/</loc>
   </url>
   
   <url>
-    <loc>/categories/design/</loc>
+    <loc>https://intentaware.com/categories/design/</loc>
     <lastmod>2017-04-02T22:01:15+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/docs/</loc>
+    <loc>https://intentaware.com/docs/</loc>
+    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/tags/example/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/categories/general/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/tags/hugo/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/casestudies/autoindustry/</loc>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/casestudies/banking/</loc>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/docs/banking/</loc>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/tags/markdown/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/password-recovery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/tags/prototype/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/casestudies/real-time-personalization/</loc>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/casestudies/retail/</loc>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/samples/</loc>
     <lastmod>2017-04-10T16:40:43+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/example/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://intentaware.com/account/</loc>
   </url>
   
   <url>
-    <loc>/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/general/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/casestudies/autoindustry/</loc>
-  </url>
-  
-  <url>
-    <loc>/casestudies/banking/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/markdown/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/password-recovery/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/prototype/</loc>
-    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/casestudies/real-time-personalization/</loc>
-  </url>
-  
-  <url>
-    <loc>/casestudies/retail/</loc>
-  </url>
-  
-  <url>
-    <loc>/account/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+    <loc>https://intentaware.com/tags/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
     <priority>0</priority>
   </url>

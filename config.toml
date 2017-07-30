@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://intentaware.com"
 languageCode = "en-us"
 title = " IntentAware"
 theme = "kube"
