@@ -167,21 +167,12 @@
   </url>
   
   <url>
-    <loc>https://intentaware.com/solutions/</loc>
+    <loc>https://intentaware.com/solutions/realtime-customer-intelligence/</loc>
   </url>
   
   <url>
     <loc>https://intentaware.com/blog/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://intentaware.com/casestudies/direct-mail-in-digital-age/</loc>
-  </url>
-  
-  <url>
-    <loc>https://intentaware.com/casestudies/</loc>
     <priority>0</priority>
   </url>
   
@@ -233,14 +224,6 @@
   </url>
   
   <url>
-    <loc>https://intentaware.com/casestudies/autoindustry/</loc>
-  </url>
-  
-  <url>
-    <loc>https://intentaware.com/casestudies/banking/</loc>
-  </url>
-  
-  <url>
     <loc>https://intentaware.com/docs/banking/</loc>
   </url>
   
@@ -266,14 +249,6 @@
   </url>
   
   <url>
-    <loc>https://intentaware.com/casestudies/real-time-personalization/</loc>
-  </url>
-  
-  <url>
-    <loc>https://intentaware.com/casestudies/retail/</loc>
-  </url>
-  
-  <url>
     <loc>https://intentaware.com/samples/</loc>
     <lastmod>2017-04-10T16:40:43+01:00</lastmod>
     <priority>0</priority>
@@ -281,6 +256,11 @@
   
   <url>
     <loc>https://intentaware.com/account/</loc>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/solutions/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
