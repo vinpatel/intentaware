@@ -1,6 +1,12 @@
 +++
 title = "Sample Case Study for Retail"
 description = "Maximizing Conversions using Ip Intelligence"
+date = "2017-04-10T16:43:08+01:00"
+draft = false
+weight = 200
+bref="conducted an experiment workshop"
+toc = true
+script = 'animation'
 +++
 
 Our team conducted an experiment workshop where we told shoppers to buy things from giant retailers in Canada.
