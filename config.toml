@@ -21,7 +21,7 @@ Paginate = 4
 [[menu.main]]
     name = "Case Studies"
     weight = -150
-    url = "/casestudies/"
+    url = "/docs/"
 [[menu.main]]
     name = "Contact"
     weight = -50
