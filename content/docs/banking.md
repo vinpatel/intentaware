@@ -1,6 +1,12 @@
 +++
 title = "IntentAware for Banking Industry"
 description = "Real Time Customer 360 "
+date = "2017-04-10T16:43:08+01:00"
+draft = false
+weight = 200
+bref=""
+toc = true
+script = 'animation'
 +++
 Ad spending on paid digital media by the US financial services was about &7.2 billion in 2015 – a gain of 14.5% over 2014 and the trend continues for at least next five years with a CAGR of 11.7%1 (eMarketer, September 2015). But what about returns on this astronomical investment? A dismal 0.003%! Clearly, something is missing. And the most obvious is random targeting – these are the people who don’t care about your product or are not in the market yet advertisers keep investing on random targeting in the hope to sell. Result is poor conversion rate.
 
