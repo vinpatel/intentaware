@@ -1,6 +1,6 @@
 +++
-description = "Simplified MarTech Cloud Platform, that delivers the right message to the right person at the right time."
-title = "Actionable Data Intelligence"
+description = "Data is the new oil and we are the #1 drilling platform"
+title = "Actionable Insights"
 draft = false
 
 +++
