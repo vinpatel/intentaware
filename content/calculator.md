@@ -52,6 +52,6 @@ function calculatePrice(myform){
   <OPTION value="5000">Hybrid Cloud</OPTION>
 </SELECT>
 </FORM>
-<button type="button" onclick="calculatePrice()">Calculate</button>
+<!--<button type="button" onclick="calculatePrice()">Calculate</button>-->
 
 The estimated cost of services :<INPUT type="text" id="PicExtPrice" Size=8>
