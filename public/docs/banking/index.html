@@ -28,8 +28,8 @@
 
 
 
-
-
+<meta property="article:published_time" content="2017-04-10T16:43:08&#43;01:00"/>
+<meta property="article:modified_time" content="2017-04-10T16:43:08&#43;01:00"/>
 
 
 
@@ -108,8 +108,31 @@
 
       </ul>
     </nav>
+    
+<script>
+!function() {
+  var t;
+  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
+  t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ],
+  t.factory = function(e) {
+    return function() {
+      var n;
+      return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+    };
+  }, t.methods.forEach(function(e) {
+    t[e] = t.factory(e);
+  }), t.load = function(t) {
+    var e, n, o, i;
+    e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"),
+    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js",
+    n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+  });
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('ynruuxb8z53n');
+</script>
+
   </div>
-  
  </header>
   <main>
   <div id="main">
@@ -122,6 +145,26 @@
     </div>
     <div id="kube-component" class="content">
     
+<nav id="contents">
+    <ol class="js-toc">
+    </ol>
+</nav>
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded",
+function(){
+tocbot.init({
+
+tocSelector: '.js-toc',
+
+contentSelector: '.content',
+
+headingSelector: 'h3'
+})
+}
+);
+</script>
+
+
 
     
 
@@ -152,6 +195,135 @@
 </ol>
 
 
+    
+     
+    <script>
+document.addEventListener("DOMContentLoaded",
+function(){
+    var animate = {
+        '#slide-up-btn': {
+            el: '#animation-box-slide-up',
+            to: 'slideUp',
+            back: 'slideDown'
+        },
+        '#slide-down-btn': {
+            el: '#animation-box-slide-down',
+            to: 'slideDown',
+            back: 'slideUp'
+        },
+        '#fade-in-btn': {
+            el: '#animation-box-fade-in',
+            to: 'fadeIn',
+            back: 'fadeOut'
+        },
+        '#fade-out-btn': {
+            el: '#animation-box-fade-out',
+            to: 'fadeOut',
+            back: 'fadeIn'
+        },
+        '#flip-in-btn': {
+            el: '#animation-box-flip-in',
+            to: 'flipIn',
+            back: 'flipOut'
+        },
+        '#flip-out-btn': {
+            el: '#animation-box-flip-out',
+            to: 'flipOut',
+            back: 'flipIn'
+        },
+        '#zoom-in-btn': {
+            el: '#animation-box-zoom-in',
+            to: 'zoomIn',
+            back: 'zoomOut'
+        },
+        '#zoom-out-btn': {
+            el: '#animation-box-zoom-out',
+            to: 'zoomOut',
+            back: 'zoomIn'
+        },
+        '#slide-in-right-btn': {
+            el: '#animation-box-slide-in-right',
+            to: 'slideInRight',
+            back: 'slideOutRight'
+        },
+        '#slide-in-left-btn': {
+            el: '#animation-box-slide-in-left',
+            to: 'slideInLeft',
+            back: 'slideOutLeft'
+        },
+        '#slide-in-down-btn': {
+            el: '#animation-box-slide-in-down',
+            to: 'slideInDown',
+            back: 'slideOutUp'
+        },
+        '#slide-out-right-btn': {
+            el: '#animation-box-slide-out-right',
+            to: 'slideOutRight',
+            back: 'slideInRight'
+        },
+        '#slide-out-left-btn': {
+            el: '#animation-box-slide-out-left',
+            to: 'slideOutLeft',
+            back: 'slideInLeft'
+        },
+        '#slide-out-up-btn': {
+            el: '#animation-box-slide-out-up',
+            to: 'slideOutUp',
+            back: 'slideInDown'
+        },
+    };
+
+    for (var key in animate)
+    {
+        $(key).attr('data-el', animate[key].el);
+        $(key).attr('data-to', animate[key].to);
+        $(key).attr('data-back', animate[key].back);
+
+        $(key).on('click', function(e)
+        {
+            e.preventDefault();
+            var $btn = $(e.target);
+            if ($btn.hasClass('demo-muted-link'))
+            {
+                return;
+            }
+
+            var $el = $($btn.attr('data-el'));
+            $btn.addClass('demo-muted-link');
+
+            $el.animation($btn.attr('data-to'));
+            setTimeout(function() {
+
+                $el.animation($btn.attr('data-back'));
+                $btn.removeClass('demo-muted-link');
+
+            }, 1500);
+
+        });
+    }
+
+
+    $('#rotate-btn').on('click', function(e)
+    {
+        e.preventDefault();
+        $('#animation-box-rotate').animation('rotate');
+    });
+
+    $('#shake-btn').on('click', function(e)
+    {
+        e.preventDefault();
+        $('#animation-box-shake').animation('shake');
+    });
+
+    $('#pulse-btn').on('click', function(e)
+    {
+        e.preventDefault();
+        $('#animation-box-pulse').animation('pulse');
+    });
+
+
+});
+</script>
     
     </div>
     </div>

@@ -113,6 +113,11 @@
   </url>
   
   <url>
+    <loc>https://intentaware.com/docs/fmcg/</loc>
+    <lastmod>2017-10-21T16:43:08+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://intentaware.com/samples/animation/</loc>
     <lastmod>2017-04-10T16:43:08+01:00</lastmod>
   </url>
@@ -124,6 +129,11 @@
   
   <url>
     <loc>https://intentaware.com/docs/autoindustry/</loc>
+    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/docs/banking/</loc>
     <lastmod>2017-04-10T16:43:08+01:00</lastmod>
   </url>
   
@@ -160,6 +170,10 @@
   <url>
     <loc>https://intentaware.com/blog/inline-style/</loc>
     <lastmod>2017-04-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/docs/quick-start/</loc>
   </url>
   
   <url>
@@ -206,7 +220,7 @@
   
   <url>
     <loc>https://intentaware.com/docs/</loc>
-    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
+    <lastmod>2017-10-21T16:43:08+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -233,10 +247,6 @@
   </url>
   
   <url>
-    <loc>https://intentaware.com/docs/banking/</loc>
-  </url>
-  
-  <url>
     <loc>https://intentaware.com/tags/markdown/</loc>
     <lastmod>2017-03-02T21:56:55+01:00</lastmod>
     <priority>0</priority>
@@ -244,6 +254,10 @@
   
   <url>
     <loc>https://intentaware.com/password-recovery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://intentaware.com/calculator/</loc>
   </url>
   
   <url>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Actionable Data Intelligence on  IntentAware</title>
+    <title>Actionable Insights on  IntentAware</title>
     <link>https://intentaware.com/</link>
-    <description>Recent content in Actionable Data Intelligence on  IntentAware</description>
+    <description>Recent content in Actionable Insights on  IntentAware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 21:56:55 +0100</lastBuildDate>
@@ -244,6 +244,15 @@ Toggle      Shop   News   Contact   Blog   Account      &amp;lt;div class=&amp;l
     </item>
     
     <item>
+      <title>Sample Case Study for FMCG</title>
+      <link>https://intentaware.com/docs/fmcg/</link>
+      <pubDate>Sat, 21 Oct 2017 16:43:08 +0100</pubDate>
+      
+      <guid>https://intentaware.com/docs/fmcg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Animation</title>
       <link>https://intentaware.com/samples/animation/</link>
       <pubDate>Mon, 10 Apr 2017 16:43:08 +0100</pubDate>
@@ -270,6 +279,15 @@ Fortunately, at a professional networking event, John met Arvind Singh the found
       <guid>https://intentaware.com/docs/autoindustry/</guid>
       <description>Research1 shows that more than 72% of auto buyers use the Internet for research and comparison activities before purchasing. As a result, Internet houses a lot of intent data of these prospects as potential buyers navigate across different auto websites. Until now, as an auto brand or dealer, you don’t have this real time prospect insights i.e., who is visiting your website, comparing vehicles, etc.
  IntentAware™ is meeting this need and adding value to Auto Industry through real time actionable online customer intelligence.</description>
+    </item>
+    
+    <item>
+      <title>IntentAware for Banking Industry</title>
+      <link>https://intentaware.com/docs/banking/</link>
+      <pubDate>Mon, 10 Apr 2017 16:43:08 +0100</pubDate>
+      
+      <guid>https://intentaware.com/docs/banking/</guid>
+      <description>Ad spending on paid digital media by the US financial services was about &amp;amp;7.2 billion in 2015 – a gain of 14.5% over 2014 and the trend continues for at least next five years with a CAGR of 11.7%1 (eMarketer, September 2015). But what about returns on this astronomical investment? A dismal 0.003%! Clearly, something is missing. And the most obvious is random targeting – these are the people who don’t care about your product or are not in the market yet advertisers keep investing on random targeting in the hope to sell.</description>
     </item>
     
     <item>
@@ -349,6 +367,15 @@ invisible  But you can see this div because it has visible class.</description>
     </item>
     
     <item>
+      <title></title>
+      <link>https://intentaware.com/docs/quick-start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://intentaware.com/docs/quick-start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title> Automated Personalization</title>
       <link>https://intentaware.com/solutions/automated-personalization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -400,15 +427,6 @@ For customer support: Email Info@intentaware.com or call +1 805-816-7853.  Your 
     </item>
     
     <item>
-      <title>IntentAware for Banking Industry</title>
-      <link>https://intentaware.com/docs/banking/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://intentaware.com/docs/banking/</guid>
-      <description>Ad spending on paid digital media by the US financial services was about &amp;amp;7.2 billion in 2015 – a gain of 14.5% over 2014 and the trend continues for at least next five years with a CAGR of 11.7%1 (eMarketer, September 2015). But what about returns on this astronomical investment? A dismal 0.003%! Clearly, something is missing. And the most obvious is random targeting – these are the people who don’t care about your product or are not in the market yet advertisers keep investing on random targeting in the hope to sell.</description>
-    </item>
-    
-    <item>
       <title>Password Recovery</title>
       <link>https://intentaware.com/password-recovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -416,6 +434,16 @@ For customer support: Email Info@intentaware.com or call +1 805-816-7853.  Your 
       <guid>https://intentaware.com/password-recovery/</guid>
       <description>Your email    Send Back to Log In
  </description>
+    </item>
+    
+    <item>
+      <title>Pricing Calculator</title>
+      <link>https://intentaware.com/calculator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://intentaware.com/calculator/</guid>
+      <description>function calculatePrice(myform){ //Get selected data var elt = document.getElementById(&#34;memoryItem&#34;); var memory = elt.options[elt.selectedIndex].value; var elt = document.getElementById(&#34;hddItem&#34;); var hdd = elt.options[elt.selectedIndex].value; var elt = document.getElementById(&#34;networkItem&#34;); var network = elt.options[elt.selectedIndex].value; //convert data to integers memory = parseInt(memory); hdd = parseInt(hdd); network = parseInt(network); //calculate total value var total = (memory*0.02)+hdd+network; //print value to PicExtPrice document.getElementById(&#34;PicExtPrice&#34;).value=total; }  Number of Impression or Visits on Digital Asset 10000 100000 100000 
+Select One Choice for Support Basic Support Only Innovation Data lab Only Basic Support+Innovation Data Labs Enterprise Support</description>
     </item>
     
     <item>

@@ -6,10 +6,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>  IntentAware </title>
+  <title> Pricing Calculator </title>
 
   
-  <meta name="description" content="Data is the new oil and we are the #1 drilling platform"> 
+  <meta name="description" content="Get an Estimate of Our Services"> 
   
   
   
@@ -21,14 +21,10 @@
   <meta name="author" content="IntentAware">
 
 
-  <meta property="og:title" content="Actionable Insights" />
-<meta property="og:description" content="Data is the new oil and we are the #1 drilling platform" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://intentaware.com/" />
-
-
-
-<meta property="og:updated_time" content="2017-03-02T21:56:55&#43;01:00"/>
+  <meta property="og:title" content="Pricing Calculator" />
+<meta property="og:description" content="Get an Estimate of Our Services" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://intentaware.com/calculator/" />
 
 
 
@@ -39,23 +35,24 @@
 
 
 
-  
+
+
 
 
 
 
   
-   
 
 
 
- 
+
   
   
   
-  <link href="https://intentaware.com/index.xml" rel="alternate" type="application/rss+xml" title=" IntentAware" /> 
+  
+  
 
-  <link rel="canonical" href="https://intentaware.com/">  
+  <link rel="canonical" href="https://intentaware.com/calculator/">  
 
   <link rel="shortcut icon" type="image/icon" href="https://github.com/vinpatel/intentaware/blob/master/static/images/favicon.ico">
 
@@ -139,62 +136,71 @@ drift.load('ynruuxb8z53n');
  </header>
   <main>
 
-<div id="main">
-  <div id="hero">
-    <h1>Actionable Insights</h1>
-    <p>Data is the new oil and we are the #1 drilling platform</p>
-  </div>
-  <div id="action-buttons">
-    <a class="button primary big" href="IA_Whitepaper.pdf" onclick="_gaq.push(['_trackEvent', 'kube', 'download', '1.0']);">Download Whitepaper</a><a class="button outline big" href="https://app.intentaware.com/users/auth/register/">Request Demo</a>
-    <p>We design,develop and deliver data solutions to data first organizations<br>
-    to meet specific stargegic needs, any scale with full compliance</p>
-  </div>
-  <div id="ad" align="center"><script>(function(){document.intentaware="hKRzMaEiCwp9GuJ68eerdd";document.campaignID="27";var b=document.currentScript.parentNode,a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="https://app.intentaware.com/magneto/aware.js";b.appendChild(a)})();</script></div>
-  <div class="message focus" data-component="message"> <span class="close small"></span>
-    <a class="button inverted small " href="https://intentaware.com/" >Ia.Ai </a> from <a href="https://intentaware.com/">Intentaware</a> is an awesome <mark>Data Collection Bot</mark> that collects data from digital assets and actions realtime!
-  </div>
-  <div id="kube-features">
-    <div class="row gutters">
-      <div class="col col-4 item">
-        <figure>
-          <img alt="Baseline" height="48" src="/img/kube/icon-baseline.png" width="48">
-        </figure>
-        <h3>Collect</h3>
-        <p>IA collects data from all digital assets including IoT</p>
-      </div>
-      <div class="col col-4 item">
-        <figure>
-          <img alt="Typography" height="48" src="/img/kube/icon-typo.png" width="48">
-        </figure>
-        <h3>Curate,Analyze</h3>
-        <p>We curate the collected data with 1000's of attributes in near real time</p>
-      </div>
-      <div class="col col-4 item">
-        <figure>
-          <img alt="Minimalism" height="48" src="/img/kube/icon-minimalism.png" width="48">
-        </figure>
-        <h3>Decision Tree</h3>
-        <p>Ping back the real time decisions in Milliseconds</p>
-      </div>
-    </div>
-    <div class="row gutters">
-      <div class="col col-4 item">
-        <h4>Deep Neural Learning</h4>
-        <p>Protect every connected device on your infrastructure realtime with our deep learning technology that identifies potential threats</p>
-      </div>
-      <div class="col col-4 item">
-        <h4>Multi device Identification</h4>
-        <p>IA works FOR all modern DEVICES, both desktop and mobile, including latest browsers</p>
-      </div>
-      <div class="col col-4 item">
-        <h4>Consult</h4>
-        <p>Driven by creative thinkers, we offer you fresh perspective in formulating and implementing your digital strategy to help you grow and deliver superior profitability.</p>
-    </div>
-  </div>
+<div id="hero" class="wrap">
+  <h1>Pricing Calculator</h1>
+    <p>Get an Estimate of Our Services</p>
 </div>
-</div>
+<ul id="posts">
+
+ <script>
+function calculatePrice(myform){
+
+  //Get selected data
+  var elt = document.getElementById("memoryItem");
+  var memory = elt.options[elt.selectedIndex].value;
+
+  var elt = document.getElementById("hddItem");
+  var hdd = elt.options[elt.selectedIndex].value;
+
+  var elt = document.getElementById("networkItem");
+  var network = elt.options[elt.selectedIndex].value;
+
+  //convert data to integers
+  memory = parseInt(memory);
+  hdd = parseInt(hdd);
+  network = parseInt(network);
+
+  //calculate total value
+  var total = (memory*0.02)+hdd+network;
+
+  //print value to  PicExtPrice
+  document.getElementById("PicExtPrice").value=total;
+
+}
+</script>
+
+<p><FORM Name="myform">
+<SELECT NAME="memoryItem" onChange="calculatePrice()" id="memoryItem">
+  <OPTION value="0">Number of Impression or Visits on Digital Asset</OPTION>
+  <OPTION value="10000">10000</OPTION>
+  <OPTION value="100000">100000</OPTION>
+  <OPTION value="1000000">100000</OPTION>
+</SELECT></p>
+
+<p><SELECT NAME="hddItem" onChange="calculatePrice()" id="hddItem">
+  <OPTION value="0">Select One Choice for Support</OPTION>
+  <OPTION value="3000">Basic Support Only</OPTION>
+  <OPTION value="13000">Innovation Data lab Only</OPTION>
+  <OPTION value="16000">Basic Support+Innovation Data Labs</OPTION>
+  <OPTION value="20000">Enterprise Support</OPTION>
+</SELECT></p>
+
+<p><SELECT NAME="networkItem" onChange="calculatePrice()" id="networkItem">
+  <OPTION value="0">Select One Choice for Deployment</OPTION>
+  <OPTION value="1000">Cloud Based</OPTION>
+  <OPTION value="2000">On Premise</OPTION>
+  <OPTION value="5000">Hybrid Cloud</OPTION>
+</SELECT>
+</FORM>
+<button type="button" onclick="calculatePrice()">Calculate</button></p>
+
+<p>The estimated cost of services :<INPUT type="text" id="PicExtPrice" Size=8></p>
+
+  
+</ul>
 </main>
-  <footer>   <footer id="footer">
+  <footer> 
+    <footer id="footer">
     <nav>
       <ul>
         <li><span>IntentAware</span></li>
@@ -227,7 +233,8 @@ twq('track','PageView');
 
 
 </footer>
- </footer>
+ 
+</footer>
 
 
   <script src="/js/kube.js" type="text/javascript">
