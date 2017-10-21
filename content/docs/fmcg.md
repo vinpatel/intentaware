@@ -8,6 +8,6 @@ bref="Content Marketing and Personalization of Brands"
 toc = true
 script = 'animation'
 +++
+Intentaware uses Artificial Intelligence based data collection library that delivers real-time customer profile.
 
-
-![FMCG Use Case](https://github.com/vinpatel/intentaware/blob/master/static/fmcg.jpeg)
+![FMCG Use Case](https://github.com/vinpatel/intentaware/blob/master/static/fmcg.jpeg?raw=true)
